@@ -8,73 +8,97 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
       image:
-        filename: welcome.jpg
-      text: |
+        filename: welcome.png
+      text: | 
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The Approximate inference lab is a research group in the [Aalto University Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science). Our work centers on developing robust and data-efficient methods for simulation-based inference.
   
-  - block: collection
+  - block: people
+    id: people
     content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+      title: People
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+        - Principal Investigator
+        - Postdoctoral Researchers
+        - PhD Students
+        - Visiting Researchers
+        - Alumni
+      sort_by: Params.first_name
+      sort_ascending: true
     design:
-      view: card
-      columns: '1'
+      show_interests: false
+      show_role: true
+      show_social: true
   
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: collection
+    id: publication
     content:
-      title: Latest Preprints
+      title: Publication
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
     design:
       view: citation
       columns: '1'
 
-  - block: markdown
+  - block: collection
+    id: news
     content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      title: News
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - news
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
     design:
+      # Choose a layout view
+      view: community/news
       columns: '1'
+
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      # Contact (add or remove contact options as necessary)
+      address:
+        street: Konemiehentie 2
+        city: Espoo
+        region: 
+        postcode: "02150"
+        country: Finland
+        country_code: FI
+      directions: 
+      office_hours:
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '60.18706512222067'
+        longitude: '24.82131872457146'  
+      # Automatically link email and phone or display as text?
+      autolink: false
+    design:
+      columns: '2'
+
+
+  # - block: markdown
+  #   content:
+  #     title:
+  #     subtitle:
+  #     text: 
+  #   design:
+  #     columns: '1'
 ---
