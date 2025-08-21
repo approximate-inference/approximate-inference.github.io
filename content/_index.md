@@ -38,7 +38,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Publication
+      title: Publications
       text: ""
       count: 5
       filters:
