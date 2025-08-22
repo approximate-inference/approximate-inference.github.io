@@ -13,7 +13,7 @@ sections:
       text: | 
         <br>
         
-        The Approximate inference lab is a research group in the [Aalto University Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science). Our work centers on developing robust and data-efficient methods for simulation-based inference.
+        The Approximate Inference lab is a research group in the [Aalto University Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science). Our work centers on developing robust and data-efficient methods for simulation-based inference.
   
   - block: people
     id: people
