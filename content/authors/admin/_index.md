@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Approximate inference lab
+title: Approximate Inference lab
 role: Department of Computer Science
 bio: ""
 interests: []
