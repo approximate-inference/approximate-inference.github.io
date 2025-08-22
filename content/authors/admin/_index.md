@@ -18,4 +18,4 @@ avatar:
 first_name: Approximate inference lab
 ---
 
-The ‘Approximate inference’ lab is a research group in the [Aalto University Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science).
+The Approximate Inference lab is a research group in the [Aalto University Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science).
