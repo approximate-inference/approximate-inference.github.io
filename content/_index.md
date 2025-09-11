@@ -5,15 +5,37 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: slider
+    content:
+      slides:
+      - title: ""
+        content: ""
+        align: center
+        background:
+          image:
+            filename: banner.jpg
+            filters:
+              brightness: 0.8
+          position: right
+          color: ""
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: 300px
+      is_fullscreen: false 
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+    
   - block: hero
     content:
-      title: |
+      title: About us
       image:
-        filename: welcome.png
+        filename: lab-logo.png
       text: | 
         <br>
         
-        The Approximate Inference lab is a research group in the [Aalto University Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science). Our work centers on developing robust and data-efficient methods for simulation-based inference.
+        The Approximate Inference lab is a research group in the [Aalto University Department of Computer Science](https://www.aalto.fi/en/department-of-computer-science). Our work centers on developing robust and sample efficient methods for [simulation-based inference](https://simulation-based-inference.org/). Check [this page](blog/robust-and-efficient-sbi) to know more about our research.
   
   - block: people
     id: people

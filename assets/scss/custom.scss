@@ -15,3 +15,8 @@
   position: relative;
   top: -0.11em; /* negative value moves it up */
 }
+
+/* Hide dates in article metadata (single pages & lists) */
+.article-metadata .article-date {
+  display: none !important;
+}
