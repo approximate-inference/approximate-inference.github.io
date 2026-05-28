@@ -22,7 +22,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Visiting Researchers
+  - Visiting Alumni
 status:
   icon: ""
 last_name: Hoang

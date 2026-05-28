@@ -14,6 +14,7 @@ sections:
          - Principal Investigator
          - PhD Students
          - Visiting Researchers
+         - Visiting Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:

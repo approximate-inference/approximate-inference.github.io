@@ -19,7 +19,7 @@ organizations:
 email: ""
 superuser: false
 user_groups:
-  - Visiting Researchers
+  - Visiting Alumni
 status:
   icon: ""
 last_name: Laplante
