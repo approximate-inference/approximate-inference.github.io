@@ -50,7 +50,7 @@ links:
   - icon:
     icon_pack: fas
     name: 'arXiv'
-    url: https://arxiv.org/pdf/2605.26990
+    url: https://arxiv.org/abs/2605.28516
 
 url_pdf: ''
 url_code: 'https://github.com/yugahikida/dro-npe'

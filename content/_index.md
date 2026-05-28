@@ -48,6 +48,7 @@ sections:
         - Postdoctoral Researchers
         - PhD Students
         - Visiting Researchers
+        - Visiting Alumni
         - Alumni
       sort_by: Params.first_name
       sort_ascending: true
