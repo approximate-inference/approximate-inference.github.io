@@ -23,8 +23,7 @@ publishDate: '2025-05-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv
-publication_short: Under review
+publication_short: "In *NeurIPS*"
 
 abstract: 'Simulation-based inference with neural posterior estimation (NPE) often yields overconfident and unreliable posteriors under       
            limited simulation budgets. To address this, we propose
