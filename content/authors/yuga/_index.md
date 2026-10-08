@@ -21,10 +21,10 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/yugahikida
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/<your-handle>/
-  #   label: Connect on LinkedIn
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/yugahikida/
+    label: Connect on LinkedIn
   - icon: globe
     icon_pack: fas
     link: https://yugahikida.github.io/

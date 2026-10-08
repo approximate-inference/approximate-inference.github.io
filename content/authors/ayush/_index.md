@@ -18,6 +18,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=6_7vkiUAAAAJ
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/ayush-bharti-726443115/
   - icon: github
     icon_pack: fab
     link: https://github.com/bharti-ayush
