@@ -47,7 +47,7 @@ sections:
         - Principal Investigator
         - Postdoctoral Researchers
         - PhD Students
-        - MSc Researchers
+        - MSc Students
         - Visiting Researchers
         - Visiting Alumni
         - Alumni

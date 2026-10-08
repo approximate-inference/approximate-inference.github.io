@@ -1,6 +1,6 @@
 ---
 title: Mikael Hokkanen
-role: MSc researcher
+role: MSc Student
 bio: ""
 interests:
 social:
@@ -9,9 +9,7 @@ social:
     link: 'mailto:mikael.hokkanen@aalto.fi'
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.fi/citations?user=rH3njSkAAAAJ&hl=fi&oi=ao
-
-     https://www.linkedin.com/in/mikaelhokkanen/
+    link: https://scholar.google.fi/citations?user=rH3njSkAAAAJ
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/mikaelhokkanen/

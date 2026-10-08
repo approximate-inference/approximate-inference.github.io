@@ -13,7 +13,7 @@ sections:
       user_groups:
          - Principal Investigator
          - PhD Students
-         - MSc Researchers
+         - MSc Students
          - Visiting Researchers
          - Visiting Alumni
       sort_by: Params.last_name
