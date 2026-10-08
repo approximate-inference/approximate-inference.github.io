@@ -26,7 +26,7 @@ organizations:
 email: ""
 superuser: true
 user_groups:
-  - Visiting Alumni
+  - MSc Students
 status:
   icon: ""
 last_name: Hokkanen
