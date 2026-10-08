@@ -58,7 +58,7 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Our paper [Conservative neural posterior estimation via distributionally robust training](https://arxiv.org/abs/2605.28516) was accepted at NeurIPS 2026!
+Our paper [Conservative neural posterior estimation via distributionally robust training](https://arxiv.org/abs/2605.28516) is accepted at NeurIPS 2026!
 
 
 
